@@ -22,7 +22,7 @@ Here are a few highlights from my work:
 ---
 
 ## 📫 Let's Connect!
-- **LinkedIn:** [mouad MELLOUL](https://www.linkedin.com/in/your-profile/](https://www.linkedin.com/in/mouad-melloul-b42283294/)
+- **LinkedIn:** [mouad MELLOUL](https://www.linkedin.com/in/mouad-melloul-b42283294/)
 - **Email:** [melloulmouad0@gmail.com](mailto:melloulmouad0@gmail.com)
 ---
 
