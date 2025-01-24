@@ -7,8 +7,8 @@ Welcome to my GitHub profile! I'm a passionate **Data Scientist** with a strong 
 ## 📂 Projects
 Here are a few highlights from my work:
 - **Football Match Predictor:** Developed a predictive model in R to estimate match outcomes (home win, away win, or draw).
-- **Sales Estimator:** Built a Python-based predictive model to estimate sales and analyze factors influencing product and store sales.
-- **Object Detection:** Achieved 99.32% validation accuracy using HOG and SVM for detecting cars and ships.
+- **Sales forecast:** Built a Python-based predictive model to estimate sales and analyze factors influencing product and store sales.
+- **Interactive chatbot with pdf documents:** Developing a private question-answering system based on the RAG method to answer questions from PDF documents
 - **Instance Segmentation:** Trained models for precise object segmentation using YOLOv8.
 
 ---
