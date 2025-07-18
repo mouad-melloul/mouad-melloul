@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Melloul Mouad!
 
-Welcome to my GitHub profile! I'm a passionate **Data Scientist** with a strong background in **Machine Learning**, **Deep Learning**, and **Artificial Intelligence**. I enjoy solving complex problems, working on predictive models, and exploring innovative solutions to real-world challenges.
+Welcome to my GitHub profile! I'm a passionate **Data Scientist** with a strong background in **Machine Learning** and **Deep Learning**. I enjoy solving complex problems, working on predictive models, and exploring innovative solutions to real-world challenges.
 
 ---
 
