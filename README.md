@@ -15,7 +15,7 @@ Here are a few highlights from my work:
 
 ## 🛠️ Skills
 - **Programming Languages:** Python, R, SQL, Java, C, HTML, CSS
-- **Tools & Frameworks:** Scikit-learn, TensorFlow, PyTorch, YOLO, Roboflow
+- **Tools & Frameworks:** Scikit-learn, TensorFlow, PyTorch, YOLO, Roboflow, git, docker, mysql, streamlit, flask
 - **Data Analysis & Visualization:** Pandas, NumPy, Matplotlib, Seaborn, Power BI
 - **Machine Learning & AI:** Classification, Regression, Clustering, NLP, and Computer Vision
 
